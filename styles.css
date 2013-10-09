@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.instructor-follow-button {
+  margin-bottom: 3px;
+}
+.row {
+  margin-bottom: 3px;
+}
+
+.toast-top-right {
+  top: 50px;
+}
